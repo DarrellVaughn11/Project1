@@ -1,0 +1,170 @@
+header{
+	background:#294C72;
+	border:1px solid #000;
+	margin: 1px;
+}
+nav {position: absolute;
+right: 20px;
+top: 0px;
+}
+nav a {font-size: 30px;
+color:white;
+	font-family:britannic bold;
+}
+.sub{font-size:30px;}
+.location{text-align: right;}
+#logo{
+	font-family:britannic bold;
+	font-size:35px;
+	color:#fff;
+	margin-top: 1px;
+	box-sizing: border-box;
+}
+#sub{
+	font-family:britannic bold;
+	font-size: 30px;
+	color:#fff;
+}
+#li{
+	margin-right: 1px;
+	margin-top: 1px;
+	font-size: 30px;
+	
+}
+#namelogo{
+	font-family: britannic bold;
+	font-size:45px;
+	color: black;
+	margin-top: -30px;
+	border; 1px;
+	box-sizing: border-box;
+	text-align: center;
+	
+}
+#logo2{
+	font-family:britannic;
+	font-size: 25px;
+	color: black;
+	text-align: center;
+	
+}
+#aboutme{
+	font-family: britannic bold;
+	font-size: 35px;
+	color: black;
+	text-align: left;
+	text-decoration: underline
+}
+#mission{font-family: britannic bold;
+	font-size: 35px;
+	color: black;
+	text-decoration: underline;
+	
+}
+#portfolio{font-family: britannic bold;
+	font-size: 35px;
+	color: black;
+	text-align: left;
+	text-decoration: underline;
+}
+#contact.html{
+	margin-right: 1px;
+	margin-top: 1px;
+	font-size: 30px;
+	font-family: britannic bold;
+	color:red;
+}
+#hero{
+	background:url(../img/bg.jpg);
+}
+#imgsrc{
+	border 1px;
+
+	margin: 0;
+margin-bottom:0;
+
+}
+.location{
+	text-align: left;
+	border: 1px solid black;
+	background-color: black;
+}
+.overlay{
+	background:;
+	margin: 1px;
+	border: 1px;
+	padding: 50px;
+	font-family: britannic;
+}
+.container{
+	shape-margin: rectangle;
+	padding: 1px;
+	font-family: britannic;
+}
+.footer{
+	background: grey
+	margin: 1px;
+	border: 100px solid #a3a3a3;
+}
+.contactdetails{text-align: right;
+right: 20px;
+top: -100px;
+	font-family: britannic bold;
+	font-size: 25px;
+		color: grey;
+	position: absolute;
+  top: 15%;
+  left: 50%;
+  
+}
+.aboutmyself{
+	text-align: left;
+	border: 100 px solid red;
+	background-color: darkgrey;
+	padding: 15px;
+	border-width: 100px;
+	margin: 15px;
+}
+.missionstatement{
+	border: 100 px solid red;
+	background-color: darkgrey;
+	padding: 15px;
+	border-width: 100px;
+	margin: 15px;
+}
+.portfoliostatement{border: 100 px solid red;
+	background-color: darkgrey;
+	padding: 15px;
+	border-width: 10px;
+	margin: 15px;
+	
+}
+.name{border: 150 px solid red;
+	background-color: darkgrey;
+	padding: 50px;
+	border-width: 1px;
+	margin: 15px;
+	
+}
+.contactlogo{
+color: black;
+font-family: britannic bold;
+font-size:20px;
+     margin-top: -25px;
+box-sizing: border-box;}
+.aboutmepara{
+	color:black;
+	font-family: arial;
+	font-size:25px;
+}
+.missionpara{
+	color:black;
+	font-family: arial;
+	font-size:25px;
+	
+}
+.portfoliopara{
+	color:black;
+	font-family: arial;
+	font-size:25px;
+}
